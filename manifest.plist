@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://file.ebchina.site/sites/cms/20181015\2\GDYF.ipa</string>
+					<string>https://github.com/yuhongli1989/testDown/blob/master/GDYF.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://172.16.89.145:9006/sites/cms/20181011\2\802616666382248581.png</string>
+					<string>https://github.com/yuhongli1989/testDown/blob/master/image.57*57.png?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://172.16.89.145:9006/sites/cms/20181011\2\84448827775799939.png</string>
+					<string>https://github.com/yuhongli1989/testDown/blob/master/image.512*512.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>GDYF</string>
+				<string>光大云富</string>
 			</dict>
 		</dict>
 	</array>
