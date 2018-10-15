@@ -9,16 +9,23 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://github.com/yuhongli1989/testDown/blob/master/GDYF.ipa</string>
+		<string>http://172.16.89.145:9006/sites/cms/20181011\2\GDYF.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://gitee.com/YHLCode/appsTest/image.57*57.png</string>
+		<string>http://172.16.89.145:9006/sites/cms/20181011\2\802616666382248581.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://gitee.com/YHLCode/appsTest/image.512*512.png</string>
+		<string>http://172.16.89.145:9006/sites/cms/20181011\2\84448827775799939.png</string>
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>com.guangda.GDYF</key>
+		<string>GDYFAHProfile</string>
+	</dict>
+	<key>signingCertificate</key>
+	<string>iPhone Distribution</string>
 	<key>signingStyle</key>
-	<string>automatic</string>
+	<string>manual</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>

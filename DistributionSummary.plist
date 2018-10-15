@@ -13,9 +13,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>4B4EB9180F6B2E47E9289FDD51E1FAAC36B77CF8</string>
+				<string>AE45050C88F6C6E635C7938653289644CB7AE701</string>
 				<key>dateExpires</key>
-				<string>2018/11/9</string>
+				<string>2019/10/15</string>
 				<key>type</key>
 				<string>iOS Distribution</string>
 			</dict>
@@ -30,9 +30,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>4B4EB9180F6B2E47E9289FDD51E1FAAC36B77CF8</string>
+						<string>AE45050C88F6C6E635C7938653289644CB7AE701</string>
 						<key>dateExpires</key>
-						<string>2018/11/9</string>
+						<string>2019/10/15</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -55,9 +55,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>4B4EB9180F6B2E47E9289FDD51E1FAAC36B77CF8</string>
+						<string>AE45050C88F6C6E635C7938653289644CB7AE701</string>
 						<key>dateExpires</key>
-						<string>2018/11/9</string>
+						<string>2019/10/15</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -80,9 +80,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>4B4EB9180F6B2E47E9289FDD51E1FAAC36B77CF8</string>
+						<string>AE45050C88F6C6E635C7938653289644CB7AE701</string>
 						<key>dateExpires</key>
-						<string>2018/11/9</string>
+						<string>2019/10/15</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -105,9 +105,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>4B4EB9180F6B2E47E9289FDD51E1FAAC36B77CF8</string>
+						<string>AE45050C88F6C6E635C7938653289644CB7AE701</string>
 						<key>dateExpires</key>
-						<string>2018/11/9</string>
+						<string>2019/10/15</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -130,9 +130,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>4B4EB9180F6B2E47E9289FDD51E1FAAC36B77CF8</string>
+						<string>AE45050C88F6C6E635C7938653289644CB7AE701</string>
 						<key>dateExpires</key>
-						<string>2018/11/9</string>
+						<string>2019/10/15</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -155,9 +155,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>4B4EB9180F6B2E47E9289FDD51E1FAAC36B77CF8</string>
+						<string>AE45050C88F6C6E635C7938653289644CB7AE701</string>
 						<key>dateExpires</key>
-						<string>2018/11/9</string>
+						<string>2019/10/15</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -180,9 +180,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>4B4EB9180F6B2E47E9289FDD51E1FAAC36B77CF8</string>
+						<string>AE45050C88F6C6E635C7938653289644CB7AE701</string>
 						<key>dateExpires</key>
-						<string>2018/11/9</string>
+						<string>2019/10/15</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -205,9 +205,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>4B4EB9180F6B2E47E9289FDD51E1FAAC36B77CF8</string>
+						<string>AE45050C88F6C6E635C7938653289644CB7AE701</string>
 						<key>dateExpires</key>
-						<string>2018/11/9</string>
+						<string>2019/10/15</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -230,9 +230,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>4B4EB9180F6B2E47E9289FDD51E1FAAC36B77CF8</string>
+						<string>AE45050C88F6C6E635C7938653289644CB7AE701</string>
 						<key>dateExpires</key>
-						<string>2018/11/9</string>
+						<string>2019/10/15</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -255,9 +255,9 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>4B4EB9180F6B2E47E9289FDD51E1FAAC36B77CF8</string>
+						<string>AE45050C88F6C6E635C7938653289644CB7AE701</string>
 						<key>dateExpires</key>
-						<string>2018/11/9</string>
+						<string>2019/10/15</string>
 						<key>type</key>
 						<string>iOS Distribution</string>
 					</dict>
@@ -290,9 +290,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>15579f56-7a5a-4918-b000-fc0d779266c2</string>
+				<string>cac51d8a-e194-439e-9dfd-bdf119f12cbe</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.guangda.GDYF</string>
+				<string>GDYFAHProfile</string>
 			</dict>
 			<key>team</key>
 			<dict>
